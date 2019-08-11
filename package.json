@@ -9,6 +9,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.8.6",
+    "react-border-wrapper": "^1.0.3",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
